@@ -1,0 +1,14 @@
+﻿NLPPATCH.11.04.2016(28%)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRANSLATION OF 28% OF THE NLP+ SCRIPTS ORIGINATING FROM JJJEWEL'S PROJECT:
+https://gbatemp.net/threads/completed-love-plus-english-translation-patch.272861/
+THIS PATCH CONTAINS THE LP>NLP+ INTEGRATION WHICH COVERED 161 OUT OF THE 578 TOTAL OF THE NLP+ SCRIPTS,
+ABOUT 95% OF THE PRECONFESSION PART AND A PORTION OF THE SCRIPTS FROM REST OF THE GAME.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SCRIPTS HAVE NOT YET BEEN CHECKED OR VERIFIED
+AND MAY HAVE SOME COMMON MISTAKES/ISSUES/MISPLACEMENTS.
+CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
+https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
+https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
