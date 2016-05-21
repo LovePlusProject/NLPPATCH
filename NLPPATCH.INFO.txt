@@ -9,6 +9,9 @@ SCRIPTS HAVE NOT YET BEEN CHECKED OR VERIFIED
 AND MAY HAVE SOME COMMON MISTAKES/ISSUES/MISPLACEMENTS.
 CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VISIT THIS LINK FOR PLUGIN SUPPORT AND INSTRUCTIONS:
+https://github.com/LovePlusProject/NLPPATCH
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
 https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
 https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
