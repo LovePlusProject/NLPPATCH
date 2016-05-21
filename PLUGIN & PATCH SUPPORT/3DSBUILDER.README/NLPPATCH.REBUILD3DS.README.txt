@@ -6,7 +6,7 @@ https://citra-emu.org/wiki/Dumping-Game-Cartridges
 DOWNLOAD THE 3DSBUILDER TOOL:
 https://github.com/SciresM/3DS-Builder/releases
 
-DOWNLOAD THE '[NLP+].GAMEFILEPACK.7Z':
+DOWNLOAD THE '[NLP+].GAMEFILEPACK.7Z'(1.42GB):
 https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
 
 REPLACE THE ORIGINAL WITH THE [NLPPATCH] FILES IN ROMFS FOLDERS.
