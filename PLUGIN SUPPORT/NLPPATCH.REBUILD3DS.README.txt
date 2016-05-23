@@ -1,0 +1,46 @@
+﻿(FOLLOW THE FIRST STEP IF YOU WANT TO DUMP YOUR OWN GAME FILES,
+
+OTHERWISE SKIP THIS STEP AND USE THE FILES PROVIDED WITH THE 'GAMEFILEPACK' AND 'EXEFS_EXHEADER')
+
+DUMP THE GAME:
+
+https://citra-emu.org/wiki/Dumping-Game-Cartridges
+
+DOWNLOAD THE 3DSBUILDER TOOL:
+
+https://github.com/SciresM/3DS-Builder/releases
+
+IF YOU DIDN'T DUMP THE GAME DOWNLOAD THE '[NLP+].GAMEFILEPACK.7Z'(1.42GB):
+
+https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
+
+IF YOU DIDN'T DUMP THE GAME DOWNLOAD '[NLP+].EXEFS_EXHEADER':
+https://mega.nz/#!g5RyCYZZ!c-42GEoZv1iH0NnY6gKyNAIlFgcDQP7-8LE1JAtvFDw
+
+REPLACE THE ORIGINAL WITH THE [NLPPATCH] FILES IN ROMFS FOLDERS.
+
+VISIT THIS THREAD AND FOLLOW THE 'Rebuilding for CFW / FlashCards​' INSTRUCTIONS:
+
+https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
+
+USE THE 'DecryptedExeFS.bin' AND 'DecryptedExHeader.bin' FILES WHEN THEY ARE REQUESTED:
+
+REMEMBER TO TICK 'USE PRE-BUILD EXEFS' WHEN ADDING THE EXEFS.
+
+DON'T FORGET TO ADD THE '.3DS' EXTENTION WHEN YOU NAME THE FILE.
+
+YOU'LL NOW HAVE A 3DS FILE THAT YOU CAN ALSO CONVERT TO CIA,
+
+AND YOU CAN RUN THE GAME WITH CFW / FLASHCARD OR CITRA.
+
+FOR THE RESULTING 3DS FILE TO WORK WITH CITRA YOU FIRST NEED TO DECRYPT IT WITH 'DECRYPT9':
+
+https://gbatemp.net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
+
+https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
+
+https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
