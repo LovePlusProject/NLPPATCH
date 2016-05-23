@@ -1,16 +1,11 @@
 ﻿NLPPATCH.HANS.INSTRUCTIONS
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 HOW TO INJECT [NLPATCH] FILES IN ROMFS:
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 DOWNLOAD THE [NLPATCH] FILES, CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION:
 https://github.com/LovePlusProject/NLPPATCH
 
 FIST YOU NEED TO DONWLOAD THE '[NLP+].GAMEFILEPACK.7Z' FILE(1.42GB):
-
 https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
 
 DOWNLOAD THE '[NLP+].HANS.PACK':
@@ -29,13 +24,9 @@ WHEN IT ASKS FOR A NAME, NAME IT '000F4E00.ROMFS'
 CREATE A 'HANS' FOLDER IN YOUR SD CARD AND PLACE BOTH '000F4E00.ROMFS' AND '000F4E00.CODE' IN FOLDER
 
 (KEEP BACKUP OF '[NLP+].GAMEFILEPACK.7Z' FOR FUTURE [NLPATCH] USE)
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 HOW TO INSTALL HANS IN YOUR DEVICE:
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 VISIT SMEALUM'S WEBSITE ( HTTPS://SMEALUM.GITHUB.IO/3DS/ )
 
 DOWNLOAD THE STARTER KIT
@@ -107,19 +98,13 @@ ROMFS --> SD : YES
 SAVE CONFIGURATION :YES
 
 PRESS OK
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 YOU CAN NOW RUN HOMEBREW & NEWLOVEPLUS+ WITH THE [NLPPATCH] ON ANY REGION'S DEVICE
 
 (HOLD DOWN THE L BUTTON WHILE BOOTING UP YOUR 3DS EVERY TIME YOU NEED TO RUN THE GAME WITH THE PATCH)
 
 *DO NOT UPDATE YOUR FIRMWARE BEFORE YOU CHECK IF IT BREAKS THE HACK YOU ARE USING OR NOT
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
-
 https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
-
 https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
