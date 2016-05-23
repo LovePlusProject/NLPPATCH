@@ -6,7 +6,7 @@ HOW TO INJECT [NLPATCH] FILES IN ROMFS:
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-FIST YOU NEED TO DONWLOAD THE ' [NLP+].GAMEFILEPACK.7Z' FILE(1.42GB): 
+FIST YOU NEED TO DONWLOAD THE ' [NLP+].GAMEFILEPACK.7Z' FILE(1.42GB):
 
 https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
 
