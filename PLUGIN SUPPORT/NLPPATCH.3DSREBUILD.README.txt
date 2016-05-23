@@ -1,5 +1,7 @@
 ﻿NLPPATCH.3DSBUILD.INSTRUCTIONS
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 DOWNLOAD THE [NLPATCH] FILES, CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION:
 https://github.com/LovePlusProject/NLPPATCH
 
@@ -36,7 +38,9 @@ https://gbatemp.net/threads/release-3ds-simple-cia-converter.384559/
 
 FOR THE RESULTING 3DS FILE TO WORK WITH CITRA YOU FIRST NEED TO DECRYPT IT WITH 'DECRYPT9':
 https://gbatemp.net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
 https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
 https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
