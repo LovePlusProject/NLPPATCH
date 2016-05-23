@@ -1,13 +1,23 @@
-﻿NLPPATCH.NTR.INSTRUCTIONS  
-++++++++++++++++++++++++++++++++++++++++++++++++++++++  
-(MAKE SURE YOUR DEVICE AND FIRMWARE IS COMPATIBLE AND INSTALL NTR)  
-CREATE A 'NLP+' FOLDER INTO THE ROOT OF SD CARD  
-EXTRACT THE [NLPPATCH] FILES INTO AN 'NLP+' FOLDER  
-FOR THE TRANSLATION TO WORK IT SHOULD BE 'NLP+/script/bin/script/'  
-EXTRACT 'PLUGIN' FOLDER INTO ROOT OF SD CARD, 'PLG' FILE SHOULD BE IN 'plugin/00040000000F4E00/'  
+﻿NLPPATCH.NTR.INSTRUCTIONS
 
-THE PATCH WILL BE AUTOMATICALLY APPLIED ONCE YOU RUN THE GAME VIA THE NTR PLUGIN  
-++++++++++++++++++++++++++++++++++++++++++++++++++++++  
-THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​  
-https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/  
-https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+(MAKE SURE YOUR DEVICE AND FIRMWARE IS COMPATIBLE AND INSTALL NTR)
+
+CREATE A 'NLP+' FOLDER INTO THE ROOT OF SD CARD
+
+EXTRACT THE [NLPPATCH] FILES INTO AN 'NLP+' FOLDER
+
+FOR THE TRANSLATION TO WORK IT SHOULD BE 'NLP+/script/bin/script/'
+
+EXTRACT 'PLUGIN' FOLDER INTO ROOT OF SD CARD, 'PLG' FILE SHOULD BE IN 'plugin/00040000000F4E00/'
+
+THE PATCH WILL BE AUTOMATICALLY APPLIED ONCE YOU RUN THE GAME VIA THE NTR PLUGIN
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
+
+https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
+
+https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
