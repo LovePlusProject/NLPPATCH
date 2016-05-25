@@ -38,6 +38,7 @@ CREATE A 'HANS' FOLDER IN YOUR SD CARD AND PLACE BOTH '000F4E00.ROMFS' AND '000F
 
 YOU CAN ALSO CHECK THESE MORE DETAILED STEP-BY-STEP INSTRUCTIONS HERE:
 https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 HOW TO INSTALL HANS IN YOUR DEVICE:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
