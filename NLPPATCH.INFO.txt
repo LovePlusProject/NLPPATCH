@@ -1,6 +1,6 @@
 ﻿NLPPATCH.20.05.2016(28%)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[STATUS_28%]++++++++++++++++++++++++++++++++++++++++++
 
 TRANSLATION FOR 28% OF THE NLP+ SCRIPTS ORIGINATING FROM JJJEWEL'S PROJECT:
 
@@ -16,11 +16,16 @@ SCRIPTS HAVE NOT YET BEEN CHECKED OR VERIFIED
 
 AND MAY HAVE SOME COMMON MISTAKES/ISSUES/MISPLACEMENTS.
 
+SUBMIT ANY ERROR YOU MIGHT COME ACROSS HERE:
+https://drive.google.com/open?id=1C3XhXpWanHvYkWaJsn6XB8OWQ5kRfsAfdx8LEt-c0Jc
+
 CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
+
+https://github.com/LovePlusProject/NLPPATCH/issues/1
 
 https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
 
