@@ -2,8 +2,11 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-DOWNLOAD THE [NLPPATCH] FILES, CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION:
+FOR THE ENGLISH TRANSLATION DOWNLOAD THE [NLPPATCH] FILES, CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION:
 https://github.com/LovePlusProject/NLPPATCH
+
+TO ENHANCE YOUR GAMING EXPERIENCE BROWSE THROUGH SOME OF THESE CUSTOM MODs:
+https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
 
 FIRST DUMP THE GAME(FOLLOW THIS STEP IF YOU WANT TO DUMP YOUR OWN GAME FILES,
 OTHERWISE SKIP THIS STEP AND USE THE FILES PROVIDED WITH THE 'GAMEFILEPACK' AND 'EXEFS_EXHEADER'):
@@ -41,6 +44,5 @@ https://gbatemp.net/threads/download-decrypt9-open-source-decryption-tools-wip.3
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
-https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
-https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
+THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​:
+https://github.com/LovePlusProject/NLPPATCH/issues/1

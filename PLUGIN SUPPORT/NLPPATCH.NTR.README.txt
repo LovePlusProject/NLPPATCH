@@ -2,6 +2,12 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+FOR THE ENGLISH TRANSLATION DOWNLOAD THE [NLPPATCH] FILES, CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION:
+https://github.com/LovePlusProject/NLPPATCH
+
+TO ENHANCE YOUR GAMING EXPERIENCE BROWSE THROUGH SOME OF THESE CUSTOM MODs:
+https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
+
 MAKE SURE YOUR DEVICE AND FIRMWARE IS COMPATIBLE AND INSTALL NTR:
 https://gbatemp.net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
 
@@ -23,6 +29,5 @@ THE PATCH WILL BE AUTOMATICALLY APPLIED ONCE YOU RUN THE GAME VIA THE NTR PLUGIN
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
-https://gbatemp.net/threads/request-help-new-love-plus-translation.395574/
-https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
+THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​:
+https://github.com/LovePlusProject/NLPPATCH/issues/1
