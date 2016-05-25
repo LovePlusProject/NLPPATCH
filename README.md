@@ -3,7 +3,7 @@
 
 [VIEW THE CREDITS FOR THIS PROJECT](https://github.com/LovePlusProject/NLPPATCH/issues/1). 
 
-FOR DISCUSSION OR PATCHING ASSISTANCE VISIT THIS [GBATEMP THREAD](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
+FOR DISCUSSION / ASSISTANCE VISIT THIS [GBATEMP THREAD](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
 [RECRUITMENT : FIND OUT WHAT YOU CAN DO TO CONTRIBUTE](https://github.com/LovePlusProject/NLPPATCH/issues/2).
 [![IMAGE ALT TEXT HERE](http://i32.photobucket.com/albums/d10/n66x/NLPTRANSLATION/pjhphj.png)](https://www.youtube.com/watch?v=Sz6p45GsLJQ)
