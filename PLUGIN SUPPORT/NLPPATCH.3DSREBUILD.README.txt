@@ -14,7 +14,6 @@ YOU NEED A CART, DIGITAL,'.3DS' OR '.CIA' FILE OF THE GAME.
 FIRST DUMP THE GAME(FOLLOW THIS STEP IF YOU WANT TO DUMP YOUR OWN GAME FILES,
 OTHERWISE SKIP THIS STEP AND USE THE FILES PROVIDED WITH THE 'GAMEFILEPACK' AND 'EXEFS_EXHEADER'):
 https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
-https://citra-emu.org/wiki/Dumping-Game-Cartridges
 
 DOWNLOAD THE 3DSBUILDER TOOL:
 https://gbatemp.net/threads/release-3ds-builder.388858/
@@ -45,6 +44,7 @@ https://gbatemp.net/threads/release-3ds-simple-cia-converter.384559/
 FOR THE RESULTING 3DS FILE TO WORK WITH CITRA YOU FIRST NEED TO DECRYPT IT WITH 'DECRYPT9':
 https://gbatemp.net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
 
+ALTERNATIVE DUMPING GUIDE: https://citra-emu.org/wiki/Dumping-Game-Cartridges
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​:
