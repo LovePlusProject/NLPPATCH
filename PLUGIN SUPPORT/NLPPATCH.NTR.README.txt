@@ -2,7 +2,8 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-(MAKE SURE YOUR DEVICE AND FIRMWARE IS COMPATIBLE AND INSTALL NTR)
+MAKE SURE YOUR DEVICE AND FIRMWARE IS COMPATIBLE AND INSTALL NTR:
+https://gbatemp.net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
 
 DOWNLOAD THE [NLPPATCH] FILES, CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION:
 https://github.com/LovePlusProject/NLPPATCH
