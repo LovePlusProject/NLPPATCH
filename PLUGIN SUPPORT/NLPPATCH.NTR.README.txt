@@ -12,9 +12,6 @@ https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
 MAKE SURE YOUR DEVICE AND FIRMWARE IS COMPATIBLE AND INSTALL NTR:
 https://gbatemp.net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
 
-DOWNLOAD THE [NLPPATCH] FILES, CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION:
-https://github.com/LovePlusProject/NLPPATCH
-
 CREATE A 'NLP+' FOLDER INTO THE ROOT OF SD CARD
 
 EXTRACT THE [NLPPATCH] FILES INTO THE 'NLP+' FOLDER
