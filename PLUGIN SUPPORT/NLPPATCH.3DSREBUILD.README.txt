@@ -11,6 +11,7 @@ https://citra-emu.org/wiki/Dumping-Game-Cartridges
 
 DOWNLOAD THE 3DSBUILDER TOOL:
 https://gbatemp.net/threads/release-3ds-builder.388858/
+https://github.com/SciresM/3DS-Builder/releases
 
 IF YOU DIDN'T DUMP THE GAME DOWNLOAD THE '[NLP+].GAMEFILEPACK.7Z'(1.42GB):
 https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
