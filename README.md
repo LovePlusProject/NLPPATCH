@@ -6,6 +6,4 @@
 FOR PATCHING ADVICE VISIT THIS [GBATEMP THREAD](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
 [RECRUITMENT : FIND OUT WHAT YOU CAN DO TO CONTRIBUTE](https://github.com/LovePlusProject/NLPPATCH/issues/2).
-![alt tag](http://i32.photobucket.com/albums/d10/n66x/NLPTRANSLATION/pjhphj.png)
-
 [![IMAGE ALT TEXT HERE](http://i32.photobucket.com/albums/d10/n66x/NLPTRANSLATION/pjhphj.png)](https://www.youtube.com/watch?v=Sz6p45GsLJQ)
