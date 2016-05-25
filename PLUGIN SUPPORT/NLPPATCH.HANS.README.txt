@@ -9,6 +9,7 @@ https://github.com/LovePlusProject/NLPPATCH
 
 FIRST DUMP THE GAME(FOLLOW THIS STEP IF YOU WANT TO DUMP YOUR OWN GAME FILES,
 OTHERWISE SKIP THIS STEP AND USE THE FILES PROVIDED WITH THE 'GAMEFILEPACK' AND 'HANS.CODE_PLUGIN'):
+https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 https://citra-emu.org/wiki/Dumping-Game-Cartridges
 
 IF YOU DIDN'T DUMP THE GAME DOWNLOAD THE '[NLP+].GAMEFILEPACK.7Z' FILE(1.42GB):

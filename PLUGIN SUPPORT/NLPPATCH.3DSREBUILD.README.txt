@@ -7,6 +7,7 @@ https://github.com/LovePlusProject/NLPPATCH
 
 FIRST DUMP THE GAME(FOLLOW THIS STEP IF YOU WANT TO DUMP YOUR OWN GAME FILES,
 OTHERWISE SKIP THIS STEP AND USE THE FILES PROVIDED WITH THE 'GAMEFILEPACK' AND 'EXEFS_EXHEADER'):
+https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 https://citra-emu.org/wiki/Dumping-Game-Cartridges
 
 DOWNLOAD THE 3DSBUILDER TOOL:
