@@ -19,10 +19,10 @@ Otherwise skip this step and use the files provided with the 'Gamefilepack' and 
 Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 
 If you didn't dump the game download the '[NLP+].Gamefilepack.7z' file(1.42gb):
-Https://mega.Nz/#!10zl2kra!Lhggr9wadwpg3aawsget3xozsgouwzdomicpmmj_m3y
+https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
 
 Download the '[NLP+].Hans.code_plugin':
-Https://mega.Nz/#!Ctbbytgj!Icyy1bc0kiiu189hy_go3va9oyxvtg_fhzn3jk2unge
+https://mega.nz/#!ctBByTgJ!icYY1bc0KiIU189HY_go3vA9OYXvTG_fHzN3Jk2UNGE
 
 Download the 'hackingtoolkit3ds':
 Http://pastebin.Com/a1s8cmsd

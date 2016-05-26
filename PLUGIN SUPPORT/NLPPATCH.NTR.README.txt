@@ -12,14 +12,14 @@ Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 Make sure your device and firmware is compatible and install NTR:
 Https://gbatemp.Net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
 
-Create a 'nlp+' folder into the root of sd card
+Create a 'NLP+' folder into the root of sd card
 
 Extract the [NLPPATCH] files into the 'NLP+' folder
 
 For the translation to work it should be 'NLP+/script/bin/script/'
 
 Download the '[NLP+].NTR.Plugin':
-Https://mega.Nz/#!J1bm3qzr!Imped6pitdrljzlsmb9s42eqpto0xtbpcawm_96mliw
+https://mega.nz/#!J1Bm3QzR!imPeD6piTdRlJzLsMb9S42eqpTo0XTBpcawm_96mLiw
 
 Extract 'plugin' folder into root of sd card, 'plg' file should be in 'plugin/00040000000f4e00/'
 
