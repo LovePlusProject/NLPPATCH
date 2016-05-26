@@ -1,4 +1,4 @@
-﻿NLPPATCH.3dsbuild.Instructions
+﻿NLPPATCH.3DSBuild.Instructions
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -9,13 +9,13 @@ Check and update this patch often to own the latest improved version.
 To enhance your gaming experience browse through some of these custom MODs:
 Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
-You need a cart, digital,'.3ds' or '.cia' file of the game.
+You need a cart, digital,'.3DS' or '.CIA' file of the game.
 
 First dump the game(follow this step if you want to dump your own game files,
 otherwise skip this step and use the files provided with the 'Gamefilepack' and 'exefs_exheader'):
 Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 
-Download the 3dsbuilder tool:
+Download the 3DSBuilder tool:
 Https://gbatemp.Net/threads/release-3ds-builder.388858/
 Https://github.Com/sciresm/3ds-builder/releases
 
@@ -34,14 +34,14 @@ Use the 'decryptedexefs.Bin' and 'decryptedexheader.Bin' files when they are req
 
 Remember to tick 'use pre-build exefs' when adding the exefs.
 
-Don't forget to add the '.3ds' extention when you name the file.
+Don't forget to add the '.3DS' extention when you name the file.
 
-You'll now have a playable '.3ds' file that you can run with flashcards.
+You'll now have a playable '.3DS' file that you can run with flashcards.
 
-Turn this '.3ds' in '.cia' for cfw:
+Turn this '.3DS' in '.CIA' for cfw:
 Https://gbatemp.Net/threads/release-3ds-simple-cia-converter.384559/
 
-For the resulting file to run (with Citra, etc) you first need to also decrypt the file with 'decrypt9':
+For the resulting file to run (with Citra, etc) you first need to also decrypt the file with 'Decrypt9':
 Https://gbatemp.Net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
 
 Alternative dumping guide: https://citra-emu.Org/wiki/dumping-game-cartridges
