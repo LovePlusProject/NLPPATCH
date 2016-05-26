@@ -1,31 +1,31 @@
-﻿NLPPATCH.NTR.INSTRUCTIONS
+﻿NLPPATCH.NTR.Instructions
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-FOR THE ENGLISH TRANSLATION DOWNLOAD THE [NLPPATCH] FILES HERE:
-https://github.com/LovePlusProject/NLPPATCH
-CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION.
+For the english translation download the [NLPPATCH] files here:
+Https://github.Com/loveplusproject/nlppatch
+Check and update this patch often to own the latest improved version.
 
-TO ENHANCE YOUR GAMING EXPERIENCE BROWSE THROUGH SOME OF THESE CUSTOM MODs:
-https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
+To enhance your gaming experience browse through some of these custom MODs:
+Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
-MAKE SURE YOUR DEVICE AND FIRMWARE IS COMPATIBLE AND INSTALL NTR:
-https://gbatemp.net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
+Make sure your device and firmware is compatible and install NTR:
+Https://gbatemp.Net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
 
-CREATE A 'NLP+' FOLDER INTO THE ROOT OF SD CARD
+Create a 'nlp+' folder into the root of sd card
 
-EXTRACT THE [NLPPATCH] FILES INTO THE 'NLP+' FOLDER
+Extract the [NLPPATCH] files into the 'NLP+' folder
 
-FOR THE TRANSLATION TO WORK IT SHOULD BE 'NLP+/script/bin/script/'
+For the translation to work it should be 'NLP+/script/bin/script/'
 
-DOWNLOAD THE '[NLP+].NTR.PLUGIN':
-https://mega.nz/#!J1Bm3QzR!imPeD6piTdRlJzLsMb9S42eqpTo0XTBpcawm_96mLiw
+Download the '[NLP+].NTR.Plugin':
+Https://mega.Nz/#!J1bm3qzr!Imped6pitdrljzlsmb9s42eqpto0xtbpcawm_96mliw
 
-EXTRACT 'PLUGIN' FOLDER INTO ROOT OF SD CARD, 'PLG' FILE SHOULD BE IN 'plugin/00040000000F4E00/'
+Extract 'plugin' folder into root of sd card, 'plg' file should be in 'plugin/00040000000f4e00/'
 
-THE PATCH WILL BE AUTOMATICALLY APPLIED ONCE YOU RUN THE GAME VIA THE NTR PLUGIN
+The patch will be automatically applied once you run the game via the NTR plugin
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​:
-https://github.com/LovePlusProject/NLPPATCH/issues/1
+Thank you to anyone who contributed to this project and made it a possibility!​:
+Https://github.Com/loveplusproject/nlppatch/issues/1

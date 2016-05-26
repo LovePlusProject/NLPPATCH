@@ -1,134 +1,134 @@
-﻿NLPPATCH.HANS.INSTRUCTIONS
+﻿NLPPATCH.Hans.Instructions
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-HOW TO INJECT [NLPPATCH] FILES IN ROMFS:
+How to inject [NLPPATCH] files in romfs:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-IN ORDER TO RUN A HANS PATCH YOU NEED TO OWN THE DIGITAL OR CART VERSION OF THE GAME 
-AND INSERT THE GAME IN THE 3DS SLOT WHILE PLAYING THE HANS PATCH.
+In order to run a hans patch you need to own the digital or cart version of the game 
+And insert the game in the 3ds slot while playing the hans patch.
  
-FOR THE ENGLISH TRANSLATION DOWNLOAD THE [NLPPATCH] FILES HERE:
-https://github.com/LovePlusProject/NLPPATCH
-CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION.
+For the english translation download the [NLPPATCH] files here:
+Https://github.Com/loveplusproject/nlppatch
+Check and update this patch often to own the latest improved version.
 
-TO ENHANCE YOUR GAMING EXPERIENCE BROWSE THROUGH SOME OF THESE CUSTOM MODs:
-https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
+To enhance your gaming experience browse through some of these custom mods:
+Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
-FIRST DUMP THE GAME(FOLLOW THIS STEP IF YOU WANT TO DUMP YOUR OWN GAME FILES,
-OTHERWISE SKIP THIS STEP AND USE THE FILES PROVIDED WITH THE 'GAMEFILEPACK' AND 'HANS.CODE_PLUGIN'):
-https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
+First dump the game(follow this step if you want to dump your own game files,
+Otherwise skip this step and use the files provided with the 'Gamefilepack' and 'Hans.code_plugin'):
+Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 
-IF YOU DIDN'T DUMP THE GAME DOWNLOAD THE '[NLP+].GAMEFILEPACK.7Z' FILE(1.42GB):
-https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
+If you didn't dump the game download the '[NLP+].Gamefilepack.7z' file(1.42gb):
+Https://mega.Nz/#!10zl2kra!Lhggr9wadwpg3aawsget3xozsgouwzdomicpmmj_m3y
 
-DOWNLOAD THE '[NLP+].HANS.CODE_PLUGIN':
-https://mega.nz/#!ctBByTgJ!icYY1bc0KiIU189HY_go3vA9OYXvTG_fHzN3Jk2UNGE
+Download the '[NLP+].Hans.code_plugin':
+Https://mega.Nz/#!Ctbbytgj!Icyy1bc0kiiu189hy_go3va9oyxvtg_fhzn3jk2unge
 
-DOWNLOAD THE 'HACKINGTOOLKIT3DS':
-http://pastebin.com/A1s8cmsD
+Download the 'hackingtoolkit3ds':
+Http://pastebin.Com/a1s8cmsd
 
-EXTRACT THE ROMFS FROM DUMPED '.CXI' WITH 'HACKINGTOOLKIT3DS' OR USE THE FILES IN '[NLP+].GAMEFILEPACK.7Z'
+Extract the romfs from dumped '.cxi' with 'hackingtoolkit3ds' or use the files in '[NLP+].Gamefilepack.7z'
 
-FIND AND REPLACE THE ORIGINAL ROMFS FILES WITH THE IDENTICAL [NLPPATCH] FILES
+Find and replace the original romfs files with the identical [NLPPATCH] files
 
-FOR THE TRANSLATION THE 'DBIN2' SCRIPTS ARE LOCATED IN 'ROMFS/SCRIPT/BIN/SCRIPT/'
+For the translation the 'dbin2' scripts are located in 'romfs/script/bin/script/'
 
-RUN 'HACKINGTOOLKIT.EXE' AND TYPE 'RFSB' TO REBUILD ROMFS
+Run 'hackingtoolkit.Exe' and type 'rfsb' to rebuild romfs
 
-POINT IT TOWARD THE 'ROMFS' FOLDER AND PRESS 'GO'
+Point it toward the 'romfs' folder and press 'go'
 
-WHEN IT ASKS FOR A NAME, NAME IT '000F4E00.ROMFS'
+When it asks for a name, name it '000f4e00.romfs'
 
-CREATE A 'HANS' FOLDER IN YOUR SD CARD AND PLACE BOTH '000F4E00.ROMFS' AND '000F4E00.CODE' IN FOLDER
+Create a 'hans' folder in your sd card and place both '000f4e00.romfs' and '000f4e00.code' in folder
 
-(KEEP BACKUP OF '.CXI' OR '[NLP+].GAMEFILEPACK.7Z' FOR FUTURE [NLPPATCH] USE)
+(keep backup of '.Cxi' or '[NLP+].Gamefilepack.7z' for future [NLPPATCH] use)
 
-YOU CAN ALSO CHECK THESE MORE DETAILED STEP-BY-STEP INSTRUCTIONS HERE:
-https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-HOW TO INSTALL HANS IN YOUR DEVICE:
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-VISIT SMEALUM'S WEBSITE ( HTTPS://SMEALUM.GITHUB.IO/3DS/ )
-
-DOWNLOAD THE STARTER KIT
-
-PLACE THIS TO THE ROOT OF YOUR SD 
-
-DOWNLOAD THE 'OTHERAPP PAYLOAD' CORRESPONDING TO YOUR VERSION
-
-IT SHOULD BE A BIN FILE (FOR EXAMPLE: POST5_U_20480_USA_9221.BIN)
-
-DOWNLOAD THE 'ROPBIN PAYLOAD'(PRODUCES AN IDENTICALLY NAMED BUT (1) FILE)
-
-RENAME THIS TO 'MENUHAX_ROPBINPAYLOAD.BIN'
-
-(THESE FILES GO TO THE ROOT OF YOUR SD CARD)
-
-NEXT YOU'LL NEED THE '000F4E00.ROMFS' YOU CREATED & '000F4E00.CODE' PATCH FILES
-
-PLACE THESE FILES ON (SDCARD)/HANS/(IF THERE ISN'T ONE CREATE IT)
-
-NOW SWITCH TO YOUR DEVICE
-
-TURN OFF YOUR 3DS' WIRELESS CAPABILITIES
-
-GO TO YOUR BROWSER
-
-CLEAR YOUR COOKIES/HISTORY AND BACK OUT
-
-USE L+R TO TURN ON THE CAMERA AND SCAN THE QR CODE LOCATED AT YELLOWS8'S BROWSERHAX PAGE:
-
-HTTP://YLS8.MTHEALL.COM/3DSBROWSERHAX.PHP
-
-CONFIRM TO LAUNCH BROWSER
-
-YOU WILL GET AN ERROR MESSAGE SAYING WIRELESS COMMUNICATIONS ARE DISABLED
-
-NOW BACK OUT OF YOUR BROWSER
-
-TURN ON WIRELESS AND GO BACK TO YOUR BROWSER
-
-IF YOUR 3DS CAN ENTER SLIDERHAX YOU WILL SEE A SMALL SLIDER ON THE TOP LEFT CORNER OF SCREEN
-
-ZOOM IN AS MUCH AS POSSIBLE WHILE HOLDING UP LEFT
-
-WHEN YOU CAN'T ZOOM IN ANYMORE, TAP THE SLIDER
-
-YOUR BOTTOM SCREEN SHOULD FLASH A FEW COLORS
-
-IF DONE CORRECTLY THE HOMEBREW MENU SHOULD BOOT UP
-
-(MIGHT NEED TO TRY THIS A FEW TIMES TILL IT WORKS)
-
-NEXT INSTALL 'MENUHAX' TILL IT'S DONE AND SHUT DOWN YOUR 3DS
-
-YOU SHOULD NOW BE ABLE TO BOOT INTO THE HOMEBREW LAUNCHER MENU
-
-BY HOLDING DOWN THE L BUTTON BEFORE BOOTING UP YOUR 3DS
-
-SCROLL DOWN ON THE HOMEBREW LAUNCHER MENU TO FIND 'HANS'
-
-RUN THE GAME BY CLICKING 'A'
-
-SWITCH THESE THREE OPTIONS:
-
-CODE --> SD : YES
-
-ROMFS --> SD : YES
-
-SAVE CONFIGURATION :YES
-
-PRESS OK
-
-YOU CAN NOW RUN HOMEBREW, HANS & NEWLOVEPLUS+ WITH [NLPPATCH] ON ANY REGION'S DEVICE
-
-(HOLD DOWN THE L BUTTON WHILE BOOTING UP YOUR 3DS EVERY TIME YOU NEED TO RUN THE GAME WITH THE PATCH)
-
-*DO NOT UPDATE YOUR FIRMWARE BEFORE YOU CHECK IF IT BREAKS THE HACK YOU ARE USING OR NOT
+You can also check these more detailed step-by-step instructions here:
+Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+How to install Hans in your device:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​:
-https://github.com/LovePlusProject/NLPPATCH/issues/1
+Visit smealum's website ( https://smealum.Github.Io/3ds/ )
+
+Download the starter kit
+
+Place this to the root of your sd 
+
+Download the 'otherapp payload' corresponding to your version
+
+It should be a bin file (for example: post5_u_20480_usa_9221.Bin)
+
+Download the 'ropbin payload'(produces an identically named but (1) file)
+
+Rename this to 'menuhax_ropbinpayload.Bin'
+
+(these files go to the root of your sd card)
+
+Next you'll need the '000f4e00.romfs' you created & '000f4e00.code' patch files
+
+Place these files on (sdcard)/hans/(if there isn't one create it)
+
+Now switch to your device
+
+Turn off your 3ds' wireless capabilities
+
+Go to your browser
+
+Clear your cookies/history and back out
+
+Use l+r to turn on the camera and scan the qr code located at yellows8's browserhax page:
+
+Http://yls8.Mtheall.Com/3dsbrowserhax.Php
+
+Confirm to launch browser
+
+You will get an error message saying wireless communications are disabled
+
+Now back out of your browser
+
+Turn on wireless and go back to your browser
+
+If your 3ds can enter sliderhax you will see a small slider on the top left corner of screen
+
+Zoom in as much as possible while holding up left
+
+When you can't zoom in anymore, tap the slider
+
+Your bottom screen should flash a few colors
+
+If done correctly the homebrew menu should boot up
+
+(might need to try this a few times till it works)
+
+Next install 'menuhax' till it's done and shut down your 3ds
+
+You should now be able to boot into the homebrew launcher menu
+
+By holding down the l button before booting up your 3ds
+
+Scroll down on the homebrew launcher menu to find 'hans'
+
+Run the game by clicking 'a'
+
+Switch these three options:
+
+Code --> sd : yes
+
+Romfs --> sd : yes
+
+Save configuration :yes
+
+Press ok
+
+You can now run homebrew, Hans & NEWLOVEPLUS+ with [NLPPATCH] on any region's device
+
+(hold down the L button while booting up your 3ds every time you need to run the game with the patch)
+
+*do not update your firmware before you check if it breaks the hack you are using or not
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Thank you to anyone who contributed to this project and made it a possibility!​:
+Https://github.Com/loveplusproject/nlppatch/issues/1

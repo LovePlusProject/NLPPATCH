@@ -1,51 +1,51 @@
-﻿NLPPATCH.3DSBUILD.INSTRUCTIONS
+﻿NLPPATCH.3dsbuild.Instructions
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-FOR THE ENGLISH TRANSLATION DOWNLOAD THE [NLPPATCH] FILES HERE:
-https://github.com/LovePlusProject/NLPPATCH
-CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION.
+For the english translation download the [NLPPATCH] files here:
+Https://github.Com/loveplusproject/nlppatch
+Check and update this patch often to own the latest improved version.
 
-TO ENHANCE YOUR GAMING EXPERIENCE BROWSE THROUGH SOME OF THESE CUSTOM MODs:
-https://gbatemp.net/threads/project-newloveplus-custom-mods-thread.412840/
+To enhance your gaming experience browse through some of these custom mods:
+Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
-YOU NEED A CART, DIGITAL,'.3DS' OR '.CIA' FILE OF THE GAME.
+You need a cart, digital,'.3ds' or '.cia' file of the game.
 
-FIRST DUMP THE GAME(FOLLOW THIS STEP IF YOU WANT TO DUMP YOUR OWN GAME FILES,
-OTHERWISE SKIP THIS STEP AND USE THE FILES PROVIDED WITH THE 'GAMEFILEPACK' AND 'EXEFS_EXHEADER'):
-https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
+First dump the game(follow this step if you want to dump your own game files,
+Otherwise skip this step and use the files provided with the 'Gamefilepack' and 'exefs_exheader'):
+Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 
-DOWNLOAD THE 3DSBUILDER TOOL:
-https://gbatemp.net/threads/release-3ds-builder.388858/
-https://github.com/SciresM/3DS-Builder/releases
+Download the 3dsbuilder tool:
+Https://gbatemp.Net/threads/release-3ds-builder.388858/
+Https://github.Com/sciresm/3ds-builder/releases
 
-IF YOU DIDN'T DUMP THE GAME DOWNLOAD THE '[NLP+].GAMEFILEPACK.7Z'(1.42GB):
-https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
+If you didn't dump the game download the '[NLP+].Gamefilepack.7z'(1.42gb):
+Https://mega.Nz/#!10zl2kra!Lhggr9wadwpg3aawsget3xozsgouwzdomicpmmj_m3y
 
-IF YOU DIDN'T DUMP THE GAME DOWNLOAD '[NLP+].EXEFS_EXHEADER':
-https://mega.nz/#!g5RyCYZZ!c-42GEoZv1iH0NnY6gKyNAIlFgcDQP7-8LE1JAtvFDw
+If you didn't dump the game download '[NLP+].exefs_exheader':
+Https://mega.Nz/#!G5rycyzz!C-42geozv1ih0nny6gkynailfgcdqp7-8le1jatvfdw
 
-REPLACE THE ORIGINAL WITH THE [NLPPATCH] FILES IN 'ROMFS' FOLDERS.
+Replace the original with the [NLPPATCH] files in 'romfs' folders.
 
-VISIT THIS THREAD AND FOLLOW THE 'Rebuilding for CFW / FlashCards​' INSTRUCTIONS:
-https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
+Visit this thread and follow the 'rebuilding for cfw / flashcards​' instructions:
+Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 
-USE THE 'DecryptedExeFS.bin' AND 'DecryptedExHeader.bin' FILES WHEN THEY ARE REQUESTED.
+Use the 'decryptedexefs.Bin' and 'decryptedexheader.Bin' files when they are requested.
 
-REMEMBER TO TICK 'USE PRE-BUILD EXEFS' WHEN ADDING THE EXEFS.
+Remember to tick 'use pre-build exefs' when adding the exefs.
 
-DON'T FORGET TO ADD THE '.3DS' EXTENTION WHEN YOU NAME THE FILE.
+Don't forget to add the '.3ds' extention when you name the file.
 
-YOU'LL NOW HAVE A PLAYABLE '.3DS' FILE THAT YOU CAN RUN WITH FLASHCARDS.
+You'll now have a playable '.3ds' file that you can run with flashcards.
 
-TURN THIS '.3DS' IN '.CIA' FOR CFW:
-https://gbatemp.net/threads/release-3ds-simple-cia-converter.384559/
+Turn this '.3ds' in '.cia' for cfw:
+Https://gbatemp.Net/threads/release-3ds-simple-cia-converter.384559/
 
-FOR THE RESULTING FILE TO RUN (WITH CITRA, ETC) YOU FIRST NEED TO ALSO DECRYPT THE FILE WITH 'DECRYPT9':
-https://gbatemp.net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
+For the resulting file to run (with Citra, etc) you first need to also decrypt the file with 'decrypt9':
+Https://gbatemp.Net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
 
-ALTERNATIVE DUMPING GUIDE: https://citra-emu.org/wiki/Dumping-Game-Cartridges
+Alternative dumping guide: https://citra-emu.Org/wiki/dumping-game-cartridges
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​:
-https://github.com/LovePlusProject/NLPPATCH/issues/1
+Thank you to anyone who contributed to this project and made it a possibility!​:
+Https://github.Com/loveplusproject/nlppatch/issues/1
