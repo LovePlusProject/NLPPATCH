@@ -4,14 +4,14 @@
 How to inject [NLPPATCH] files in romfs:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-In order to run a hans patch you need to own the digital or cart version of the game 
-And insert the game in the 3ds slot while playing the hans patch.
+In order to run a Hans patch you need to own the digital or cart version of the game 
+And insert the game in the 3ds slot while playing the Hans patch.
  
 For the english translation download the [NLPPATCH] files here:
 Https://github.Com/loveplusproject/nlppatch
 Check and update this patch often to own the latest improved version.
 
-To enhance your gaming experience browse through some of these custom mods:
+To enhance your gaming experience browse through some of these custom MODs:
 Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
 First dump the game(follow this step if you want to dump your own game files,
@@ -24,10 +24,10 @@ https://mega.nz/#!10Zl2KrA!lHggr9WaDWPg3AAWsgeT3XoZsgOuWZDOMicpMMj_M3Y
 Download the '[NLP+].Hans.code_plugin':
 https://mega.nz/#!ctBByTgJ!icYY1bc0KiIU189HY_go3vA9OYXvTG_fHzN3Jk2UNGE
 
-Download the 'hackingtoolkit3ds':
+Download the 'hackingtoolkit3DS':
 Http://pastebin.Com/a1s8cmsd
 
-Extract the romfs from dumped '.cxi' with 'hackingtoolkit3ds' or use the files in '[NLP+].Gamefilepack.7z'
+Extract the romfs from dumped '.cxi' with 'hackingtoolkit3DS' or use the files in '[NLP+].Gamefilepack.7z'
 
 Find and replace the original romfs files with the identical [NLPPATCH] files
 
@@ -72,7 +72,7 @@ Place these files on (sdcard)/hans/(if there isn't one create it)
 
 Now switch to your device
 
-Turn off your 3ds' wireless capabilities
+Turn off your 3DS' wireless capabilities
 
 Go to your browser
 
@@ -90,7 +90,7 @@ Now back out of your browser
 
 Turn on wireless and go back to your browser
 
-If your 3ds can enter sliderhax you will see a small slider on the top left corner of screen
+If your 3DS can enter sliderhax you will see a small slider on the top left corner of screen
 
 Zoom in as much as possible while holding up left
 
@@ -102,11 +102,11 @@ If done correctly the homebrew menu should boot up
 
 (might need to try this a few times till it works)
 
-Next install 'menuhax' till it's done and shut down your 3ds
+Next install 'menuhax' till it's done and shut down your 3DS
 
 You should now be able to boot into the homebrew launcher menu
 
-By holding down the l button before booting up your 3ds
+By holding down the l button before booting up your 3DS
 
 Scroll down on the homebrew launcher menu to find 'hans'
 
@@ -124,7 +124,7 @@ Press ok
 
 You can now run homebrew, Hans & NEWLOVEPLUS+ with [NLPPATCH] on any region's device
 
-(hold down the L button while booting up your 3ds every time you need to run the game with the patch)
+(hold down the L button while booting up your 3DS every time you need to run the game with the patch)
 
 *do not update your firmware before you check if it breaks the hack you are using or not
 
