@@ -43,6 +43,9 @@ You'll now have a playable '.3DS' file that you can run with flashcards.
 Turn this '.3DS' in '.CIA' for cfw:
 Https://gbatemp.Net/threads/release-3ds-simple-cia-converter.384559/
 
+You might need the xorpads for this action, download ' [NLP+].xorpads.zip':
+https://mega.nz/#!k4g1RZiD!vku8ccmo4cEqUKi8d_Zyf-c-1F5gHRI_OcPh1G9NrEM
+
 For the resulting file to run (with Citra, etc) you first need to also decrypt the file with 'Decrypt9':
 Https://gbatemp.Net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
 
