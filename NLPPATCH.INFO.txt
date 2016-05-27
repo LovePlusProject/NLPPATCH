@@ -24,5 +24,4 @@ CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
-
 https://github.com/LovePlusProject/NLPPATCH/issues/1
