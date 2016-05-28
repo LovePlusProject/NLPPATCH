@@ -9,7 +9,7 @@ Check and update this patch often to own the latest improved version.
 To enhance your gaming experience browse through some of these custom MODs:
 Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
-You need a cart, digital,'.3DS' or '.CIA' file of the game.
+You need a cart, digital, a decrypted '.3DS' or a decrypted '.CIA' file of the game.
 
 For '.3DS' visit here:
 Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
