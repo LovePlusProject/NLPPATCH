@@ -14,9 +14,9 @@ Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 In order to run a Hans patch you need to own the digital or cart version of the game 
-And have the game in the 3DS slot while playing the Hans patch
+and have the game in the 3DS slot while playing the Hans patch
 
-First dump the game with either 'Braindump' or 'Uncart'
+First dump the game with either 'Uncart' or 'Braindump'
 (follow this step if you want to dump your own game files,
 Otherwise skip this step and use the files provided with the 'Gamefilepack' and 'Hans.code_plugin'):
 Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/

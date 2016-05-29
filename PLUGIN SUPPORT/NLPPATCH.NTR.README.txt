@@ -13,7 +13,7 @@ Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Make sure your device and firmware is compatible and install NTR:
+Make sure your device and firmware is compatible and install NTR (has been discontinued):
 Https://gbatemp.Net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
 
 Create a 'NLP+' folder into the root of sd card
