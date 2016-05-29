@@ -14,7 +14,7 @@ Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 In order to run a Hans patch you need to own the digital or cart version of the game 
-And have the game in the 3ds slot while playing the Hans patch
+And have the game in the 3DS slot while playing the Hans patch
 
 First dump the game with either 'Braindump' or 'Uncart'
 (follow this step if you want to dump your own game files,
@@ -38,11 +38,11 @@ Extract the romfs from dumped '.cxi' with 'hackingtoolkit3DS' or use the files i
 
 Find and replace the original romfs files with the identical [NLPPATCH] files
 
-For the translation the 'dbin2' scripts are located in 'romfs/script/bin/script/'
+For the translation the 'dbin2' scripts are located in '(romfs)/script/bin/script/'
 
 Run 'hackingtoolkit.Exe' and type 'rfsb' to rebuild romfs
 
-Point it toward the 'romfs' folder and press 'go'
+Point it toward the romfs folder and press 'go'
 
 When it asks for a name, name it '000f4e00.romfs'
 
