@@ -1,20 +1,23 @@
 ﻿NLPPATCH.Hans.Instructions
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-How to inject [NLPPATCH] files in romfs:
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-In order to run a Hans patch you need to own the digital or cart version of the game 
-And insert the game in the 3ds slot while playing the Hans patch.
- 
 For the english translation download the [NLPPATCH] files here:
 Https://github.Com/loveplusproject/nlppatch
-Check and update this patch often to own the latest improved version.
+Check and update this patch often to own the latest improved version
 
 To enhance your gaming experience browse through some of these custom MODs:
 Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
-First dump the game(follow this step if you want to dump your own game files,
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Download:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In order to run a Hans patch you need to own the digital or cart version of the game 
+And have the game in the 3ds slot while playing the Hans patch
+
+First dump the game with either 'Braindump' or 'Uncart'
+(follow this step if you want to dump your own game files,
 Otherwise skip this step and use the files provided with the 'Gamefilepack' and 'Hans.code_plugin'):
 Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 
@@ -26,6 +29,10 @@ https://mega.nz/#!ctBByTgJ!icYY1bc0KiIU189HY_go3vA9OYXvTG_fHzN3Jk2UNGE
 
 Download the 'hackingtoolkit3DS':
 Http://pastebin.Com/a1s8cmsd
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+How to inject [NLPPATCH] files in 'ExtractedRomFS':
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Extract the romfs from dumped '.cxi' with 'hackingtoolkit3DS' or use the files in '[NLP+].Gamefilepack.zip'
 
