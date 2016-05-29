@@ -27,7 +27,7 @@ Download the 3DSBuilder tool:
 Https://gbatemp.Net/threads/release-3ds-builder.388858/
 Https://github.Com/sciresm/3ds-builder/releases
 
-If you didn't dump the game download the '[NLP+].Gamefilepack.zip'(1.48gb):
+If you didn't dump the game download the '[NLP+].Gamefilepack.zip'(1.48GB):
 https://mega.nz/#!54QhQYyQ!eOEeU9-c2rXvbfIrxL978g92cXIbZrFKXR9CpeY_4lM
 
 If you didn't dump the game download '[NLP+].exefs_exheader':
