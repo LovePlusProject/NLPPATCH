@@ -1,13 +1,17 @@
 ﻿NLPPATCH.NTR.Instructions
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Material:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 For the english translation download the [NLPPATCH] files here:
 Https://github.Com/loveplusproject/nlppatch
-Check and update this patch often to own the latest improved version.
+Check and update this patch often to own the latest improved version
 
 To enhance your gaming experience browse through some of these custom MODs:
 Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Make sure your device and firmware is compatible and install NTR:
 Https://gbatemp.Net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/

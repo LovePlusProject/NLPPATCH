@@ -1,6 +1,8 @@
 ﻿NLPPATCH.3DSBuild.Instructions
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Material:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 For the english translation download the [NLPPATCH] files here:
 Https://github.Com/loveplusproject/nlppatch
@@ -9,8 +11,6 @@ Check and update this patch often to own the latest improved version.
 To enhance your gaming experience browse through some of these custom MODs:
 Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Material:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 You need a cart, digital, a decrypted '.3DS' or a decrypted '.CIA' file of the game.
