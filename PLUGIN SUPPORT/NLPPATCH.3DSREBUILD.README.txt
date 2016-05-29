@@ -47,7 +47,7 @@ Visit either of these threads and follow the 'rebuilding for cfw / flashcards​
 Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-and-rebuild-a-cia.388677/
 
-load the 3DSBuilder tool:
+Load the 3DSBuilder tool:
 Https://gbatemp.Net/threads/release-3ds-builder.388858/
 Https://github.Com/sciresm/3ds-builder/releases
 
