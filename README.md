@@ -1,5 +1,5 @@
 # NLPPATCH.20.05.2016(28%)
-[[**STATUS_28%**](https://github.com/LovePlusProject/NLPPATCH/blob/master/NLPPATCH.INFO.txt)] ENGLISH TRANSLATION FOR 161/578 OF THE [「NEWラブプラス+」/「NEWLOVEPLUS+」](http://www.konami.jp/products/newloveplus_plus/) 3DS GAME SCRIPTS AND SUPPORT FOR [HANS/NTR/CFW/FLASHCARDS/CITRA](https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT). 
+[[**STATUS_28%**](https://github.com/LovePlusProject/NLPPATCH/blob/master/NLPPATCH.INFO.txt)] ENGLISH TRANSLATION FOR 161/578 OF THE [「NEWラブプラス+」/「NEWLOVEPLUS+」](http://www.konami.jp/products/newloveplus_plus/) 3DS GAME SCRIPTS AND SUPPORT FOR [HANS/NTR/CFW/FLASHCARDS/3DS/CIA/CITRA](https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT). 
 
 [VIEW THE CREDITS FOR THIS PROJECT](https://github.com/LovePlusProject/NLPPATCH/issues/1). 
 
