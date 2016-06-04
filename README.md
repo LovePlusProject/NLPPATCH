@@ -8,4 +8,5 @@ View the [credits for this project](https://github.com/LovePlusProject/NLPPATCH/
 For discussion visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
 Recruitment : [find out what you can do to contribute](https://github.com/LovePlusProject/NLPPATCH/issues/2).
+
 [![IMAGE ALT TEXT HERE](http://i32.photobucket.com/albums/d10/n66x/NLPTRANSLATION/pjhphj.png)](https://www.youtube.com/watch?v=Sz6p45GsLJQ)
