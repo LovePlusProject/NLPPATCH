@@ -6,7 +6,7 @@ translation for 28% of the NLP+ scripts originating from jjjewel's project:
 
 https://gbatemp.net/threads/completed-love-plus-english-translation-patch.272861/
 
-this patch contains the LP2NLP+ integration which covered 161 out of the 578 total of the NLP+ scripts,
+this patch contains the LP2NLP+ integration which covered 161 out of the 577 total of the NLP+ scripts,
 
 about 95% of the 'Friend Mode' part and a portion of the scripts from rest of the game.
 
