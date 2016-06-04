@@ -34,7 +34,7 @@ Http://pastebin.Com/a1s8cmsd
 How to inject [NLPPATCH] files in 'ExtractedRomFS':
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Extract the romfs from dumped '.cxi' with 'hackingtoolkit3DS' or use the files in '[NLP+].Gamefilepack.zip'
+Extract the romfs from dumped file with 'hackingtoolkit3DS' or use the files in '[NLP+].Gamefilepack.zip'
 
 Find and replace the original romfs files with the identical [NLPPATCH] files
 
@@ -48,7 +48,7 @@ When it asks for a name, name it '000f4e00.romfs'
 
 Create a 'hans' folder in your sd card and place both '000f4e00.romfs' and '000f4e00.code' in folder
 
-(keep backup of '.Cxi' or '[NLP+].Gamefilepack.zip' for future [NLPPATCH] use)
+(keep backup of clean dumped file or '[NLP+].Gamefilepack.zip' for future [NLPPATCH] use)
 
 You can also check these more detailed step-by-step instructions here:
 Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/

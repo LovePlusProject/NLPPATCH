@@ -24,7 +24,7 @@ If you can't find a 'decypted' version of '.3DS' / '.CIA' first "decrypt(deep)" 
 https://github.com/d0k3/Decrypt9WIP/releases
 Https://gbatemp.Net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
 
-If you didn't dump the game download the '[NLP+].Gamefilepack.zip'(1.48GB):
+If you didn't dump the game download the '[NLP+].Gamefilepack.zip'(1.49GB):
 https://mega.nz/#!54QhQYyQ!eOEeU9-c2rXvbfIrxL978g92cXIbZrFKXR9CpeY_4lM
 
 If you didn't dump the game download '[NLP+].exefs_exheader':

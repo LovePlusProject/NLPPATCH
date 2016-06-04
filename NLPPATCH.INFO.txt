@@ -2,26 +2,26 @@
 
 [STATUS_28%]++++++++++++++++++++++++++++++++++++++++++
 
-TRANSLATION FOR 28% OF THE NLP+ SCRIPTS ORIGINATING FROM JJJEWEL'S PROJECT:
+translation for 28% of the NLP+ scripts originating from jjjewel's project:
 
 https://gbatemp.net/threads/completed-love-plus-english-translation-patch.272861/
 
-THIS PATCH CONTAINS THE LP>NLP+ INTEGRATION WHICH COVERED 161 OUT OF THE 578 TOTAL OF THE NLP+ SCRIPTS,
+this patch contains the LP2NLP+ integration which covered 161 out of the 578 total of the NLP+ scripts,
 
-ABOUT 95% OF THE PRECONFESSION PART AND A PORTION OF THE SCRIPTS FROM REST OF THE GAME.
+about 95% of the 'Friend Mode' part and a portion of the scripts from rest of the game.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-SCRIPTS HAVE NOT YET BEEN CHECKED OR VERIFIED
+scripts have not yet been checked or verified
 
-AND MAY HAVE SOME COMMON MISTAKES/ISSUES/MISPLACEMENTS.
+and may have some common mistakes/issues/misplacements.
 
-SUBMIT ANY SCRIPT ERROR YOU MIGHT COME ACROSS HERE:
+Submit any script error you might come across here:
 https://drive.google.com/open?id=1C3XhXpWanHvYkWaJsn6XB8OWQ5kRfsAfdx8LEt-c0Jc
 
-CHECK AND UPDATE THIS PATCH OFTEN TO OWN THE LATEST IMPROVED VERSION.
+Check and update this patch often to own the latest improved version.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-THANK YOU TO ANYONE WHO CONTRIBUTED TO THIS PROJECT AND MADE IT A POSSIBILITY!​
+Thank you to anyone who contributed to this project and made it a possibility!​
 https://github.com/LovePlusProject/NLPPATCH/issues/1
