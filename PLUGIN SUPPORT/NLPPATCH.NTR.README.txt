@@ -22,6 +22,8 @@ Extract the [NLPPATCH] files into the 'NLP+' folder
 
 For the translation to work it should be 'NLP+/script/bin/script/'
 
+transfer the 'SystemData/TextResource' project folder in 'NLP+/SystemData/TextResource'
+
 Download the '[NLP+].NTR.Plugin':
 https://mega.nz/#!hxwyzBoZ!7ORyyRFg5LkMo49XppJZlTSZeHABHryfHyOEZo28iQ8
 

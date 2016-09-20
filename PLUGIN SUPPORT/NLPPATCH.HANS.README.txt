@@ -40,6 +40,9 @@ Find and replace the original romfs files with the identical [NLPPATCH] files
 
 For the translation the 'dbin2' scripts are located in '(romfs)/script/bin/script/'
 
+
+Replace and se the project's 'SystemData/TextResource' folder instead
+
 Run 'hackingtoolkit.Exe' and type 'rfsb' to rebuild romfs
 
 Point it toward the romfs folder and press 'go'
