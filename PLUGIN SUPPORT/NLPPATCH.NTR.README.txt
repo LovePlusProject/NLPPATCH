@@ -13,8 +13,13 @@ Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Make sure your device and firmware is compatible and install NTR (has been discontinued):
+Make sure your device and firmware is compatible and install NTR:
+
+(Original has been discontinued):
 Https://gbatemp.Net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
+
+Use BootNTR instead:
+https://github.com/44670/BootNTR/releases/
 
 Create a 'NLP+' folder into the root of sd card
 
@@ -29,7 +34,7 @@ https://mega.nz/#!hxwyzBoZ!7ORyyRFg5LkMo49XppJZlTSZeHABHryfHyOEZo28iQ8
 
 Extract 'plugin' folder into root of sd card, 'plg' file should be in 'plugin/00040000000f4e00/'
 
-The patch will be automatically applied once you run the game via the NTR plugin
+The patch will be automatically applied after you first run the NTR plugin and then run the game
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
