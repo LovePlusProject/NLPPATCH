@@ -12,7 +12,7 @@ about 95% of the 'Friend Mode' part and a portion of the scripts from rest of th
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-scripts have not yet been checked or verified
+All scripts have not yet been checked or verified
 
 and may have some common mistakes/issues/misplacements.
 
