@@ -68,6 +68,8 @@ Download the starter kit
 
 Place this to the root of your sd 
 
+(these are outdated instructions, there might be easier methods now than these instructions.)
+
 Download the 'otherapp payload' corresponding to your version
 
 It should be a bin file (for example: post5_u_20480_usa_9221.Bin)
