@@ -9,7 +9,7 @@ https://github.com/LovePlusProject/NLPPATCH/releases
 Check and update this patch often to own the latest improved version.
 
 To enhance your gaming experience browse through some of these custom MODs:
-Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
+https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -22,7 +22,7 @@ https://www.reddit.com/r/3dshacks/comments/40etaz/tutorial_dumping_3ds_carts_and
 
 If you can't find a 'decypted' version of '.3DS' / '.CIA' first "decrypt(deep)" the file using 'Decrypt9WIP': 
 https://github.com/d0k3/Decrypt9WIP/releases
-Https://gbatemp.Net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
+https://gbatemp.Net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
 
 If you didn't dump the game download the '[NLP+].Gamefilepack.zip'(1.49GB):
 https://mega.nz/#!54QhQYyQ!eOEeU9-c2rXvbfIrxL978g92cXIbZrFKXR9CpeY_4lM
@@ -35,7 +35,7 @@ How to inject [NLPPATCH] files in 'ExtractedRomFS':
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 To extract and rebuild a '.3DS' file visit here:
-Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
+https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 
 To extract and rebuild a '.CIA' file visit here:
 https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-and-rebuild-a-cia.388677/
@@ -45,12 +45,12 @@ if you Want to rebuild the '[NLP+].Gamefilepack.zip' files skip the 'extract' st
 After extracting replace the original with the [NLPPATCH] files in 'ExtractedRomFS' folders and rebuild file.
 
 Visit either of these threads and follow the 'Rebuilding for cfw / flashcards​' or 'rebuild your ROM' instructions:
-Https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
+https://gbatemp.Net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/
 https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-and-rebuild-a-cia.388677/
 
 To rebuld the '[NLP+].Gamefilepack.zip' load the 3DSBuilder tool:
-Https://gbatemp.Net/threads/release-3ds-builder.388858/
-Https://github.Com/sciresm/3ds-builder/releases
+https://gbatemp.Net/threads/release-3ds-builder.388858/
+https://github.Com/sciresm/3ds-builder/releases
 
 Use the 'decryptedexefs.Bin' and 'decryptedexheader.Bin' files when they are requested.
 
@@ -61,16 +61,16 @@ Don't forget to add the '.3DS' extention when you name the file.
 You'll now have a playable '.3DS' file that you can run with flashcards.
 
 You can also turn this '.3DS' in '.CIA' for cfw:
-Https://gbatemp.Net/threads/release-3ds-simple-cia-converter.384559/
+https://gbatemp.Net/threads/release-3ds-simple-cia-converter.384559/
 (Based on the method you used you might need the xorpads for this action.)
 
 For the resulting file to run (with Citra, etc) you need to also encrypt the resulting file with 'Decrypt9WIP':
 https://github.com/d0k3/Decrypt9WIP/releases
-Https://gbatemp.Net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
+https://gbatemp.Net/threads/download-decrypt9-open-source-decryption-tools-wip.388831/
 
 Alternative dumping guide for Citra: https://citra-emu.Org/wiki/dumping-game-cartridges
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Thank you to anyone who contributed to this project and made it a possibility!​:
-Https://github.Com/loveplusproject/nlppatch/issues/1
+https://github.Com/loveplusproject/nlppatch/issues/1

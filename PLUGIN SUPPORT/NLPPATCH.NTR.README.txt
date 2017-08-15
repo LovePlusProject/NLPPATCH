@@ -9,14 +9,14 @@ https://github.com/LovePlusProject/NLPPATCH/releases
 Check and update this patch often to own the latest improved version
 
 To enhance your gaming experience browse through some of these custom MODs:
-Https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
+https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Make sure your device and firmware is compatible and install NTR:
 
 (Original has been discontinued):
-Https://gbatemp.Net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
+https://gbatemp.Net/threads/release-ntr-cfw-3-2-with-experimental-real-time-save-feature.385142/
 
 Use BootNTR instead:
 https://github.com/44670/BootNTR/releases/
@@ -39,4 +39,4 @@ The patch will be automatically applied after you first run the NTR plugin and t
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Thank you to anyone who contributed to this project and made it a possibility!​:
-Https://github.Com/loveplusproject/nlppatch/issues/1
+https://github.Com/loveplusproject/nlppatch/issues/1
