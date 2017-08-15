@@ -5,10 +5,10 @@
 
 View the [credits for this project here](https://github.com/LovePlusProject/NLPPATCH/issues/1). 
 
-You'll find the [patching instructions & the appropritate plugins here](https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT)
+You'll find the [patching instructions & the appropritate plugins here](https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT).
 
 For discussion concering the game & the patching process visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
-Recruitment : [find out what you can do to contribute](https://github.com/LovePlusProject/NLPPATCH/issues/2).
+Recruitment : [find out what you can do to contribute to this project](https://github.com/LovePlusProject/NLPPATCH/issues/2).
 
 [![IMAGE ALT TEXT HERE](http://i32.photobucket.com/albums/d10/n66x/NLPTRANSLATION/pjhphj.png~original)](https://www.youtube.com/watch?v=Sz6p45GsLJQ)
