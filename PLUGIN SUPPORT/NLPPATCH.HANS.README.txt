@@ -5,7 +5,7 @@ Material:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 For the english translation download the [NLPPATCH] files here:
-Https://github.Com/loveplusproject/nlppatch
+https://github.com/LovePlusProject/NLPPATCH/releases
 Check and update this patch often to own the latest improved version
 
 To enhance your gaming experience browse through some of these custom MODs:
