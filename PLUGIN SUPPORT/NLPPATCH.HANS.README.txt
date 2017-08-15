@@ -34,14 +34,16 @@ Http://pastebin.Com/a1s8cmsd
 How to inject [NLPPATCH] files in 'ExtractedRomFS':
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+
 Extract the romfs from dumped file with 'hackingtoolkit3DS' or use the files in '[NLP+].Gamefilepack.zip'
 
 Find and replace the original romfs files with the identical [NLPPATCH] files
 
 For the translation the 'dbin2' scripts are located in '(romfs)/script/bin/script/'
 
+Replace the original with the project's 'SystemData/TextResource' folder instead
 
-Replace and se the project's 'SystemData/TextResource' folder instead
+(this is an outdated patching method, there might be easier methods now than these instructions.)
 
 Run 'hackingtoolkit.Exe' and type 'rfsb' to rebuild romfs
 
