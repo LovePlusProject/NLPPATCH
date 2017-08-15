@@ -1,19 +1,22 @@
-﻿NLPPATCH.20.05.2016(28%)
+﻿NLPPATCH.15.08.2017
+https://github.com/LovePlusProject/NLPPATCH
 
 [STATUS_28%]++++++++++++++++++++++++++++++++++++++++++
 
-translation for 28% of the NLP+ scripts originating from jjjewel's project:
-
+This is a partial translation for 28% of the NLP+ scripts originating from jjjewel's project:
 https://gbatemp.net/threads/completed-love-plus-english-translation-patch.272861/
 
 this patch contains the LP2NLP+ integration which covered 161 out of the 577 total of the NLP+ scripts,
+about 95% of the 'Friend Mode' part and a portion of the scripts from the rest of the game.
 
-about 95% of the 'Friend Mode' part and a portion of the scripts from rest of the game.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+visit here for plugin and patch instructions for HANS/NTR/CFW/FLASHCARDS/3DS/CIA/CITRA:
+https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 All scripts have not yet been checked or verified
-
 and may have some common mistakes/issues/misplacements.
 
 Submit any script error you might come across here:
@@ -22,6 +25,5 @@ https://drive.google.com/open?id=1C3XhXpWanHvYkWaJsn6XB8OWQ5kRfsAfdx8LEt-c0Jc
 Check and update this patch often to own the latest improved version.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 Thank you to anyone who contributed to this project and made it a possibility!​
 https://github.com/LovePlusProject/NLPPATCH/issues/1
