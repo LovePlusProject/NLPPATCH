@@ -7,7 +7,7 @@ View the [credits for this project](https://github.com/LovePlusProject/NLPPATCH/
 
 For patching instructions & the appropritate plugins [Visit here](https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT)
 
-For discussion visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
+For discussion concering the game & patching process visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
 Recruitment : [find out what you can do to contribute](https://github.com/LovePlusProject/NLPPATCH/issues/2).
 
