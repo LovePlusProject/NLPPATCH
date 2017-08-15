@@ -8,7 +8,7 @@ https://gbatemp.net/threads/completed-love-plus-english-translation-patch.272861
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-visit here for plugin and patch instructions for HANS/NTR/CFW/FLASHCARDS/3DS/CIA/CITRA:
+visit here for plugins and patch instructions for HANS/NTR/CFW/FLASHCARDS/3DS/CIA/CITRA:
 https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT
 
 [CAUTION]: No matter the method you choose to use it's important that you use our own
