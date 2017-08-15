@@ -34,7 +34,7 @@ https://mega.nz/#!hxwyzBoZ!7ORyyRFg5LkMo49XppJZlTSZeHABHryfHyOEZo28iQ8
 
 Extract 'plugin' folder into root of sd card, 'plg' file should be in 'plugin/00040000000f4e00/'
 
-The patch will be automatically applied after you first run the NTR plugin and then run the game
+The patch will be automatically applied after you first run the NTR plugin each time before you run the game
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
