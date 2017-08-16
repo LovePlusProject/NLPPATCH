@@ -8,17 +8,17 @@ https://gbatemp.net/threads/completed-love-plus-english-translation-patch.272861
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-visit here for plugins and patch instructions for HANS/NTR/CFW/FLASHCARDS/3DS/CIA/CITRA:
+visit here for plugin and patch instructions for HANS/NTR/CFW/FLASHCARDS/3DS/CIA/CITRA:
 https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT
 
-[CAUTION]: No matter the method you choose to use it's important that you use our own
-altered 000f4e00.code plugin to replace the original .code file so that
-all the files of the translation will work properly!
+[CAUTION]: No matter the patching method you choose to use it's important
+that you replace the original with our own altered 000f4e00.code plugin file
+so that all the files of the translation will work properly!
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-All scripts have not yet been checked or verified
-and may have some common mistakes/issues/misplacements.
+While a big portion of the scripts have been proofread, not all scripts have
+yet been checked and verified so there may be some common mistakes/issues/misplacements.
 
 Submit any script error you might come across here:
 https://drive.google.com/open?id=1C3XhXpWanHvYkWaJsn6XB8OWQ5kRfsAfdx8LEt-c0Jc

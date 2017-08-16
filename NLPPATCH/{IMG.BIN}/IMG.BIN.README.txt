@@ -1,4 +1,4 @@
 Inject these files in 'img.bin'
 
 We don't have an img.bin 'Inject Tool' yet, find out how you can contribute:
-https://github.com/LovePlusProject/NLPPATCH/issues/2
+https://docs.google.com/document/d/1PYqw9L2M9-IsiM3AetX2j0zQwfwInWOkQn9syWakUOI/edit
