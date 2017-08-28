@@ -1,7 +1,7 @@
 ﻿# NLPPATCH.2017.08.15 (28%)
 [[**STATUS_28%**](https://github.com/LovePlusProject/NLPPATCH/blob/master/NLPPATCH.INFO.txt)] English translation for **168/577** of the [「NEWラブプラス+」/「NEWLOVEPLUS+」](http://www.konami.jp/products/newloveplus_plus/) 3DS game scripts and support for [HANS/NTR/CFW/FLASHCARDS/3DS/CIA/CITRA](https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT). 
 
-Download the latest **NLPPATCH** release [here](https://github.com/LovePlusProject/NLPPATCH/releases)*.
+Download the [latest **NLPPATCH** release here](https://github.com/LovePlusProject/NLPPATCH/releases)*.
 
 ***This project is not yet completed and patch files are still under process and meant for personal use/beta-testing, please do not upload and pass around a patched rom version that might cause a lot of problems for us and confusion for users, thank you.**
 
