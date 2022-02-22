@@ -16,3 +16,5 @@ For discussion concering the game & the patching process visit [this GBATemp thr
 Recruitment : [find out what you can do to contribute to this project](https://github.com/LovePlusProject/NLPPATCH/issues/2).
 
 [![IMAGE ALT TEXT HERE](http://i32.photobucket.com/albums/d10/n66x/NLPTRANSLATION/pjhphj.png~original)](https://www.youtube.com/watch?v=Sz6p45GsLJQ)
+
+A new effort to add additional parts to the translation can be found here: https://github.com/Makein/NLPPGit
