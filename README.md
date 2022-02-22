@@ -13,7 +13,7 @@ You'll find the [patching instructions & the appropritate plugins here](https://
 
 For discussion concering the game & the patching process visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
-~~Recruitment~~(discontinued) : [find out what you can do to contribute to this project](https://github.com/LovePlusProject/NLPPATCH/issues/2).
+~~Recruitment : [find out what you can do to contribute to this project](https://github.com/LovePlusProject/NLPPATCH/issues/2).~~(discontinued)
 
 **22/02/2022**: A new effort to add additional parts to the translation can be found here: https://github.com/Makein/NLPPGit
 
