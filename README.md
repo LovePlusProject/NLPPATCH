@@ -3,7 +3,7 @@
 
 Download the [latest **NLPPATCH*** release here](https://github.com/LovePlusProject/NLPPATCH/releases).
 
-***This project is not yet completed and patch files are still under process and meant for personal use/beta-testing, please do not upload and pass around a patched rom version that might cause a lot of problems for us and confusion for users, thank you.**
+***This project is not yet completed and patch files are still under process and meant for personal use/beta-testing, please do not upload and pass around a patched version that might cause a lot of problems for us and confusion for users, thank you.**
 
 **Contact Skype:LovePlusProject**
 
@@ -14,7 +14,5 @@ You'll find the [patching instructions & the appropritate plugins here](https://
 For discussion concering the game & the patching process visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
 ~~Recruitment : [find out what you can do to contribute to this project](https://github.com/LovePlusProject/NLPPATCH/issues/2).~~(discontinued)
-
-**22/02/2022**: A new effort to add additional parts to this translation [can be found here](https://github.com/Makein/NLPPGit)
 
 [![IMAGE ALT TEXT HERE](http://i32.photobucket.com/albums/d10/n66x/NLPTRANSLATION/pjhphj.png~original)](https://www.youtube.com/watch?v=Sz6p45GsLJQ)
