@@ -1,0 +1,41 @@
+﻿NLPPATCH.CITRA.Instructions
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Material:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+For the English translation download the [NLPPATCH] files here:
+https://github.com/LovePlusProject/NLPPATCH/releases
+Check and update this patch often to own the latest improved version
+
+To enhance your gaming experience browse through some of these custom MODs:
+https://gbatemp.Net/threads/project-newloveplus-custom-mods-thread.412840/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Download the latest build of CITRA here:
+https://citra-emulator.com/download
+
+Run Citra, 'double-click to add a new folder to the game list' and direct it to where you have stored your 3DS/CIA file of the NLP+ game.
+
+Right-click the game in the list, and click 'Open Mods Location', it should open a folder named '00040000000F4E00', enter this folder and create a new folder called 'romfs'.
+
+Download the '[NLP+].Gamefilepack.zip' file (1.49GB):
+https://mega.nz/#!54QhQYyQ!eOEeU9-c2rXvbfIrxL978g92cXIbZrFKXR9CpeY_4lM
+
+For Citra you'll only need to extract the 'ExtractedRomFS' folder, place the files in the 'romfs' folder you created earlier.
+
+Replace the 'Script' and 'SystemData' folders in 'romfs' with the translated folder files from the project's link: 
+https://github.com/LovePlusProject/NLPPATCH/releases
+
+After running the game for the first time click 'Emulation>Configure Current Game...>Enhancements>' and tick the 'Rotate Screens Upright' box in order for the game to display with the correct orientation.
+
+The patch will be automatically applied, however note that currently while most of the instructions and the button graphics have been edited and translated, we haven't implemented a way to inject them into the game just yet, you'd have to navigate the Japanese menus in order to create your profile, and start the game, phone apps such as 'googletranslate' that have a live camera translate feature should come in handy till you set everything up, and before you become accustomed to the game's menu.
+
+Android: https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en
+iOs: https://apps.apple.com/us/app/google-translate/id414706506
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Thank you to anyone who contributed to this project and made it a possibility!​:
+https://github.Com/loveplusproject/nlppatch/issues/1
