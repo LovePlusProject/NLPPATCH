@@ -9,9 +9,9 @@ Download the [latest **NLPPATCH*** release here](https://github.com/LovePlusProj
 
 View the [credits for this project here](https://github.com/LovePlusProject/NLPPATCH/issues/1). 
 
-You'll find the [patching instructions & the appropritate plugins here](https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT).
+You'll find the [patching instructions & the appropriate plugins here](https://github.com/LovePlusProject/NLPPATCH/tree/master/PLUGIN%20SUPPORT).
 
-For discussion concering the game & the patching process visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
+For discussion concerning the game & the patching process visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
 Recruitment : [find out what you can do to contribute to this project](https://github.com/LovePlusProject/NLPPATCH/issues/2)
 
