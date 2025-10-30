@@ -13,7 +13,7 @@ You'll find the [patching instructions & the appropriate plug-ins here](https://
 
 For discussion concerning the game & the patching process visit [this GBATemp thread](https://gbatemp.net/threads/request-help-newloveplus-english-translation.395574/).
 
-We're also **happy** to announce our [**2025 [NLPPCTR] MODs Project**](https://github.com/LovePlusProject/NLPPCTR/).
+[**upd**]: we're also **happy** to announce the creaiton our [**2025 [NLPPCTR] MODs Project**](https://github.com/LovePlusProject/NLPPCTR/).
 
 Recruitment : [find out what you can do to contribute to this project](https://github.com/LovePlusProject/NLPPATCH/issues/2)
 
