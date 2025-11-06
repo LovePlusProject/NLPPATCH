@@ -49,7 +49,8 @@ https://apps.apple.com/us/app/google-translate/id414706506
 
 Note for Mods/Translators/etc:
 In the chance that you'll ever need the original, untouched files of the game,
-download the '[NLP+].Gamefilepack.zip' file (1.49GB):
+Right click on the game in CITRA and select 'dump RomFS', then check the 'dump' folder.
+or download the '[NLP+].Gamefilepack.zip' file (1.49GB):
 https://mega.nz/#!54QhQYyQ!eOEeU9-c2rXvbfIrxL978g92cXIbZrFKXR9CpeY_4lM
 
 For Citra you'll only need to extract the 'ExtractedRomFS' folder,
