@@ -1,4 +1,6 @@
-Inject these files in 'img.bin'
+Any files in the {IM.BIN} folder are Not applicable in CITRA without some further modifications,
+these files will need to be repacked/Injected into the 'img.bin' file in order to work in the game.
 
-We don't have an img.bin 'Inject Tool' yet, find out how you can contribute:
-https://docs.google.com/document/d/1PYqw9L2M9-IsiM3AetX2j0zQwfwInWOkQn9syWakUOI/edit
+Make a copy of the 'img.bin' file in the 'load' folder before you edit that file,
+then proceed to use the 'nlpp-tools', and follow the instructions to perform the 'repack' action:
+https://github.com/LovePlusProject/nlpp-tools
