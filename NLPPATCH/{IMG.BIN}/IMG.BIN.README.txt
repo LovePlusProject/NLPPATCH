@@ -1,4 +1,4 @@
-Any files in the {IM.BIN} folder are Not applicable in CITRA without some further modifications,
+Any files in the {IM.BIN} folder are Not applicable without some further modifications,
 these files will need to be repacked/Injected into the 'img.bin' file in order to work in the game.
 
 Make a copy of the 'img.bin' file in the 'load' folder before you edit that file,
