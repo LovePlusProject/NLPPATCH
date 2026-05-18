@@ -15,7 +15,7 @@ For discussion concerning the game & the patching process visit [this GBATemp th
 
 We're also **happy** to announce the creation of our [**2025 [NLPPCTR] MODs Project**](https://github.com/LovePlusProject/NLPPCTR/).
 
-[**Tools compatible with this Project**]: [NLPUnpacker](https://github.com/LovePlusProject/NLPUnpacker), [NLPTextTool](https://github.com/LovePlusProject/NLPTextTool), [nlpp-tools](https://github.com/LovePlusProject/nlpp-tools), [trb2xlsx](https://github.com/LovePlusProject/Trb2xlsx), [png2texi](https://github.com/LovePlusProject/png2texi), [nlpp-fmt](https://github.com/LovePlusProject/nlpp-fmt), [NLPPCTR](https://github.com/LovePlusProject/NLPPCTR).
+[**Tools compatible with this Project**]: [NLPUnpacker](https://github.com/LovePlusProject/NLPUnpacker), [NLPTextTool](https://github.com/LovePlusProject/NLPTextTool), [nlpp-tools](https://github.com/LovePlusProject/nlpp-tools), [trb2xlsx](https://github.com/LovePlusProject/Trb2xlsx), [png2texi](https://github.com/LovePlusProject/png2texi), [nlpp-fmt](https://github.com/LovePlusProject/nlpp-fmt), [NLPPCTR](https://github.com/LovePlusProject/NLPPCTR), [NLPLineWrapper](https://github.com/Aikin-Ai/NLPLineWrapper).
 
 Recruitment : [find out what you can do to contribute to this project](https://github.com/LovePlusProject/NLPPATCH/issues/2)
 
